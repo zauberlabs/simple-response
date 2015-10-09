@@ -1,6 +1,6 @@
 {
   "name": "simple-response",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "node": ">= 4.0.0"
   },
@@ -14,7 +14,10 @@
     "express",
     "promises"
   ],
-  "repository": "zauberlabs/simple-response",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zauberlabs/simple-response.git"
+  },
   "author": "Martin Silva",
   "license": "MIT",
   "devDependencies": {
