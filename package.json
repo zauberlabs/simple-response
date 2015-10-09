@@ -1,6 +1,6 @@
 {
   "name": "simple-response",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "node": ">= 4.0.0"
   },
@@ -11,9 +11,11 @@
   },
   "keywords": [
     "api",
-    "node"
+    "express",
+    "promises"
   ],
-  "author": "Flowics",
+  "repository": "zauberlabs/simple-response",
+  "author": "Martin Silva",
   "license": "MIT",
   "devDependencies": {
     "chai": "^3.3.0",
